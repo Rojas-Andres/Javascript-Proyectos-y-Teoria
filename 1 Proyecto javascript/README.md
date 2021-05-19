@@ -1,0 +1,1 @@
+Este proyecto es para que al pulsar sobre alguno de los dias se agreguen automaticamente a opciones y cuando vuelva a pulsar lo elimine de opciones

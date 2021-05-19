@@ -1,0 +1,16 @@
+a, button {
+    display: block;
+}
+
+.box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
